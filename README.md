@@ -1,5 +1,5 @@
 # YatraSafe
-A Application in the Travel and Health domain
+A Mobile Application, using Android, in the Travel and Health domain
 
 
 Health is an important factor of our life. And in this pandemic, it is much more important and not safe. This application focuses on the travelers, which travel from city to city in order to complete their work within the time period they have. Travelers, here are the venders, marketing agents, dealers, for their trading, then merchants, etc. the list goes on. 
